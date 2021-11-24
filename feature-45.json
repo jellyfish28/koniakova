@@ -1,0 +1,38 @@
+{
+  "packageData": {
+    "packageId": 107,
+    "barCode": "23544353853253243242343246357",
+    "creationDate": "2021-11-19T15:12:52.33Z",
+    "originLocation": { "id": 10018 },
+    "unloadLocation": { "id": 10018 },
+    "finalDestinationLocation": { "id": 21406 },
+    "product": { "id": 1 },
+    "miscelanousProduct": { "id": 1 },
+    "movementType": { "id": 1 },
+    "movementSubtype": { "id": 1 },
+    "brand": { "id": 1 },
+    "carrier": { "id": 1 },
+    "section": { "id": 1 },
+    "season": { "id": 1 },
+    "campaign": { "id": 1 },
+    "articleType": { "id": 1 },
+    "transportId": 11,
+    "packaging": { "id": 1 },
+    "height": 1.0,
+    "length": 2.0,
+    "width": 3.0,
+    "volume": 4.0,
+    "weight": 5.0,
+    "priority": 1.0,
+    "state": { "id": 1, "date": "2021-11-17T15:35:02.563324+01:00" },
+    "operationType": "CREATION"
+  },
+  "metaData": {
+    "generationDate": "2021-11-17T15:12:52.331Z",
+    "messageId": "5c745e13-ad4b-45a1-91a0-9fcc7ba3b87e",
+    "messageType": "PACKAGE",
+    "version": "1",
+    "originSystem": "RETRO",
+    "messageIdOrigin": "2452452"
+  }
+}
