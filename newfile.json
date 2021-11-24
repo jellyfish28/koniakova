@@ -1,0 +1,73 @@
+{
+  "packageData": {
+    "packageId": 1559516752,
+    "barCode": "00987623333345345345654601",
+    "creationDate": "2021-11-17T15:35:02.563324+01:00",
+    "originLocation": {
+      "id": 321,
+      "description": "OSLO-BOGSTADVEIEN"
+    },
+    "unloadLocation": {
+      "id": 15747,
+      "description": "ASCO FREIGHT - Gardermoen"
+    },
+    "finalDestinationLocation": {
+      "id": 9735,
+      "description": "INDITEX-ARTEIXO"
+    },
+    "product": {
+      "id": 1,
+      "description": "Ropa"
+    },
+    "movementType": {
+      "id": 11,
+      "description": "Taras"
+    },
+    "brand": {
+      "id": 11,
+      "description": "Massimo Dutti"
+    },
+    "carrier": {
+      "id": 727096,
+      "description": "TRANSPORTES CORUÑESES, S.A."
+    },
+    "section": {
+      "id": 2,
+      "description": "Caballero"
+    },
+    "season": {
+      "id": 1,
+      "description": "TEMPORADA"
+    },
+    "campaign": {
+      "id": 29,
+      "description": "I    "
+    },
+    "packaging": {
+      "id": 2,
+      "description": "Bulto"
+    },
+    "height": 60.0,
+    "length": 40.0,
+    "width": 40.0,
+    "volume": 96000.0,
+    "weight": 20.0,
+    "priority": 0.0,
+
+    "state": {
+      "id": 1,
+      "date": "2021-11-17T15:35:02.563324+01:00",
+      "location": {
+        "id": 321,
+        "description": "OSLO-BOGSTADVEIEN"
+      }
+    }
+  },
+  "metaData": {
+    "generationDate": "2021-11-19T10:22:59.8141852+01:00",
+    "messageId": "25798aba-9446-45af-96b0-9ab85f637148",
+    "messageType": "PACKAGE",
+    "version": "1.0.0",
+    "originSystem": "AS400_DOCS"
+  }
+}
